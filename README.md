@@ -48,6 +48,8 @@ print(eu.ola())
 - 🐍 **Python**: CLIs para cálculo de impostos, validação de CNPJ/CPF e conversão de NF-e
 - 🌐 **Web**: sistemas de gestão com Next.js + Supabase
 - 🗄️ **Dados**: SQL, consultas à Receita Federal, tratamento de XML de NF-e
+- 📊 **BI**: BigQuery, Looker Studio (Data Studio) e Power BI
+- 🎮 **Game Dev**: Lua e Enfusion Workbench (mods para Arma Reforger)
 
 ---
 
@@ -59,6 +61,7 @@ print(eu.ola())
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 **Web & Dados**
 
@@ -66,6 +69,16 @@ print(eu.ola())
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Dados & BI**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Game Dev**
+
+![Enfusion Workbench](https://img.shields.io/badge/Enfusion_Workbench-Arma_Reforger-1C1C1C?style=for-the-badge&logoColor=white)
 
 **Ferramentas**
 
